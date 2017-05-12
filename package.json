@@ -1,0 +1,10 @@
+{
+  "name": "ctci6hammady",
+  "version": "1.0.0",
+  "description": "Cracking the Coding Interview solutions",
+  "author": "Hossam Hammady <github@hammady.net>",
+  "license": "MIT",
+  "dependencies": {
+    "written-number": "^0.4.1"
+  }
+}
